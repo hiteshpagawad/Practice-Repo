@@ -1,2 +1,3 @@
 # Practice-Repo
-This is just for learning &amp; practice.
+I learned mySQL, HTML & CSS.
+I am studying AI&DS.
